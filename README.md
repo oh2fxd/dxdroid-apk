@@ -18,4 +18,4 @@ Precompiled **debug** APK of DxDroid — DX Spot Mapper for Android.
 
 Connects to PSKReporter.info MQTT to display real-time amateur radio DX spots on OpenStreetMap. 12 bands, 14 modes, friend alerts, dark mode, immersive fullscreen.
 
-**by OH2FXD** — [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=oh2fxd@gmail.com&item_name=DxDroid+Development)
+**by OH2FXD** — [Donate via PayPal](https://www.paypal.com/paypalme/dxdroid
