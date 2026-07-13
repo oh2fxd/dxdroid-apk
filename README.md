@@ -1,8 +1,8 @@
 # DxDroid APK
 
-Precompiled **debug** APK of DxDroid — DX Spot Mapper for Android.
+Precompiled **debug** APK of [DxDroid](https://github.com/oh2fxd/dxdroid) — DX Spot Mapper for Android.
 
-> Source code is at [oh2fxd/dxdroid](https://github.com/oh2fxd/dxdroid) (private).
+> Source code is in a private repo at [oh2fxd/dxdroid](https://github.com/oh2fxd/dxdroid).
 
 ## Download
 
@@ -11,11 +11,11 @@ Precompiled **debug** APK of DxDroid — DX Spot Mapper for Android.
 ## Install
 
 1. Download `dxdroid.apk` to your Android device
-2. Open the file — Android prompts "Install from unknown sources"
+2. Open the file — Android will prompt to allow "Install from unknown sources"
 3. Enable the permission and install
 
 ## About
 
-Connects to PSKReporter.info MQTT to display real-time amateur radio DX spots on OpenStreetMap. 12 bands, 14 modes, friend alerts, dark mode, immersive fullscreen.
+DxDroid connects to PSKReporter.info MQTT to display real-time amateur radio DX spots on an OpenStreetMap. Ported from Arduino DX7L firmware.
 
-**by OH2FXD** — [Donate via PayPal](https://www.paypal.com/paypalme/dxdroid
+**by OH2FXD** — [Donate via PayPal](https://www.paypal.com/paypalme/dxdroid)
