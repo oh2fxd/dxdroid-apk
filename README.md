@@ -18,4 +18,12 @@ Precompiled **debug** APK of [DxDroid](https://github.com/oh2fxd/dxdroid) — DX
 
 DxDroid connects to PSKReporter.info MQTT to display real-time amateur radio DX spots on an OpenStreetMap. Ported from Arduino DX7L firmware.
 
-**by OH2FXD** — [Donate via PayPal](https://www.paypal.com/paypalme/dxdroid)
+## Donations
+
+Thank you to everyone who has supported the development:
+
+| Donor | Amount |
+|-------|--------|
+| Markku Lähteenmäki — OH2MDN | 50 € |
+
+[Donate via PayPal](https://www.paypal.com/paypalme/dxdroid) — 73! de OH2FXD
