@@ -1,5 +1,5 @@
 {
-  "versionCode": 13,
-  "versionName": "1.4.6",
-  "releaseNotes": "fix: callsign labels on both ends for own traffic + extended own-traffic fade (5min bright)"
+  "versionCode": 14,
+  "versionName": "1.4.7",
+  "releaseNotes": "skip own-call label at txGeo when onlyMyCallsign is on (drawOwnPosition handles it)"
 }
