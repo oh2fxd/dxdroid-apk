@@ -1,5 +1,5 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.12",
-  "releaseNotes": "simplify: same 1min fade for all spots; Pass3 clean logic; buffer expiry 1min"
+  "versionCode": 20,
+  "versionName": "1.4.13",
+  "releaseNotes": "4m color deep blue; explicit guard against drawing own callsign label in Pass 3"
 }
