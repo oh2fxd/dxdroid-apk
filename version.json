@@ -1,5 +1,5 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.5",
-  "releaseNotes": "push.sh: auto-use last commit msg as release notes"
+  "versionCode": 13,
+  "versionName": "1.4.6",
+  "releaseNotes": "fix: callsign labels on both ends for own traffic + extended own-traffic fade (5min bright)"
 }
