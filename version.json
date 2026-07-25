@@ -1,5 +1,5 @@
 {
-  "versionCode": 18,
-  "versionName": "1.4.11",
-  "releaseNotes": "shorten own-traffic fade to 2min bright / 3min start"
+  "versionCode": 19,
+  "versionName": "1.4.12",
+  "releaseNotes": "simplify: same 1min fade for all spots; Pass3 clean logic; buffer expiry 1min"
 }
