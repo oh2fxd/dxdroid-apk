@@ -1,5 +1,5 @@
 {
-  "versionCode": 17,
-  "versionName": "1.4.10",
-  "releaseNotes": "remove PSKReporter delay tracking; tighten general spot fade to 1min max"
+  "versionCode": 18,
+  "versionName": "1.4.11",
+  "releaseNotes": "shorten own-traffic fade to 2min bright / 3min start"
 }
