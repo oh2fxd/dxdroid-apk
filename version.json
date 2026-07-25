@@ -1,5 +1,5 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.8",
-  "releaseNotes": "protect own spots from buffer trimming when onlyMyCallsign is on"
+  "versionCode": 16,
+  "versionName": "1.4.9",
+  "releaseNotes": "buffer: extend max spots 500→800, trim at 85%→keep 70% (less lossy)"
 }
