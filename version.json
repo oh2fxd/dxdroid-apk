@@ -1,5 +1,5 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.15",
-  "releaseNotes": "add white label style toggle (white bg/black text/border vs black bg/white text)"
+  "versionCode": 23,
+  "versionName": "1.4.16",
+  "releaseNotes": "fade now scales with spot expiry setting (25%/50%/100% of chosen minutes)"
 }
