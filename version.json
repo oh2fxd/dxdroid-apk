@@ -1,5 +1,5 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.14",
-  "releaseNotes": "settings: spot expiry 1/5/15min selector; label style: white bg + black text + border"
+  "versionCode": 22,
+  "versionName": "1.4.15",
+  "releaseNotes": "add white label style toggle (white bg/black text/border vs black bg/white text)"
 }
