@@ -1,5 +1,5 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.16",
-  "releaseNotes": "fade now scales with spot expiry setting (25%/50%/100% of chosen minutes)"
+  "versionCode": 24,
+  "versionName": "1.4.17",
+  "releaseNotes": "cleanup: remove dead code (LiveMode, orphaned functions, unused imports); update play store listing + privacy policy + FAQ"
 }
