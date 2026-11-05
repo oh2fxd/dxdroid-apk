@@ -1,5 +1,5 @@
 {
-  "versionCode": 53,
-  "versionName": "1.4.46",
-  "releaseNotes": "change: don't run in background — service lives with the app, stops on Exit"
+  "versionCode": 54,
+  "versionName": "1.4.47",
+  "releaseNotes": "fix: single-instance activity so one Exit press closes the app"
 }
