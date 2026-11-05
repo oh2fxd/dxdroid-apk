@@ -1,5 +1,5 @@
 {
-  "versionCode": 52,
-  "versionName": "1.4.45",
-  "releaseNotes": "chore(signing,release): keystore creds out of build file + hub publishing"
+  "versionCode": 53,
+  "versionName": "1.4.46",
+  "releaseNotes": "change: don't run in background — service lives with the app, stops on Exit"
 }
